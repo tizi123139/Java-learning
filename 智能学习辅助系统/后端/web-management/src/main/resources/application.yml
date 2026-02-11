@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: web-management
+  datasource:
+    url: jdbc:mysql://localhost:3306/tilas
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: tizi1234
+    password: Tizi6666
+
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+
+
+logging:
+  level:
+    org.springframework.jdbc.support.JdbcTransactionManager: debug
+
+aliyun:
+  oss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    bucketName: java-ai123456hhhh
+    region: cn-beijing
