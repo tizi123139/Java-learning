@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:27 CST 2026
+joda-time-2.10.3.jar>aliyunmaven=
+joda-time-2.10.3.pom>spring=
+joda-time-2.10.3.jar>spring=
+joda-time-2.10.3.pom>aliyunmaven=
+joda-time-2.10.3-sources.jar>spring=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 27 00:45:21 CST 2021
+jackson-dataformat-smile-2.9.8.pom>aliyunmaven=
+jackson-dataformat-smile-2.9.8.jar>spring=
+jackson-dataformat-smile-2.9.8.pom>spring=
+jackson-dataformat-smile-2.9.8.jar>aliyunmaven=

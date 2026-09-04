@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:24 CST 2026
+fastjson-1.2.58.jar>aliyunmaven=
+fastjson-1.2.58.pom>spring=
+fastjson-1.2.58.pom>aliyunmaven=
+fastjson-1.2.58.jar>spring=
+fastjson-1.2.58-sources.jar>spring=

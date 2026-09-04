@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:28 CST 2026
+jersey-client-1.19.1.jar>central=
+jersey-client-1.19.1.pom>central=
+jersey-client-1.19.1.pom>spring=
+jersey-client-1.19.1-sources.jar>spring=
+jersey-client-1.19.1.jar>aliyunmaven=
+jersey-client-1.19.1.jar>spring=
+jersey-client-1.19.1.pom>aliyunmaven=

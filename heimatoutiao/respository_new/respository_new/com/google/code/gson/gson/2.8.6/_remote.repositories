@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:20:54 CST 2026
+gson-2.8.6-sources.jar>spring=
+gson-2.8.6.pom>spring=
+gson-2.8.6.jar>spring=
+gson-2.8.6.jar>central=
+gson-2.8.6.jar>aliyunmaven=
+gson-2.8.6.pom>central=
+gson-2.8.6.pom>aliyunmaven=

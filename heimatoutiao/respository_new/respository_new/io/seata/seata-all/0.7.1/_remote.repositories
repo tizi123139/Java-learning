@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 31 10:19:35 CST 2021
+seata-all-0.7.1.jar>aliyunmaven=
+seata-all-0.7.1.jar>spring=
+seata-all-0.7.1.pom>aliyunmaven=
+seata-all-0.7.1.pom>spring=

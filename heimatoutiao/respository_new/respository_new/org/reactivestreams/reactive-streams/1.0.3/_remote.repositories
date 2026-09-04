@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:19:54 CST 2026
+reactive-streams-1.0.3-sources.jar>spring=
+reactive-streams-1.0.3.jar>aliyunmaven=
+reactive-streams-1.0.3.pom>spring=
+reactive-streams-1.0.3.pom>aliyunmaven=
+reactive-streams-1.0.3.jar>spring=

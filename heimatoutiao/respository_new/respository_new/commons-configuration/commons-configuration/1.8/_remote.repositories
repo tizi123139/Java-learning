@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:58:11 CST 2026
+commons-configuration-1.8.jar>aliyunmaven=
+commons-configuration-1.8-sources.jar>spring=
+commons-configuration-1.8.jar>spring=
+commons-configuration-1.8.pom>aliyunmaven=
+commons-configuration-1.8.jar>central=
+commons-configuration-1.8.pom>central=
+commons-configuration-1.8.pom>spring=

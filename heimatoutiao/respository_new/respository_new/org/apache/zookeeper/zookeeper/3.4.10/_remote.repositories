@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:54 CST 2026
+zookeeper-3.4.10.pom>aliyunmaven=
+zookeeper-3.4.10.jar>spring=
+zookeeper-3.4.10-sources.jar>spring=
+zookeeper-3.4.10.jar>aliyunmaven=
+zookeeper-3.4.10.pom>spring=

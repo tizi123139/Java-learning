@@ -1,0 +1,4 @@
+com\heima\file\service\FileStorageService.class
+com\heima\file\config\MinIOConfig.class
+com\heima\file\service\impl\MinIOFileStorageService.class
+com\heima\file\config\MinIOConfigProperties.class

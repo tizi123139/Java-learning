@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:22 CST 2026
+hppc-0.8.1.jar>aliyunmaven=
+hppc-0.8.1.pom>aliyunmaven=
+hppc-0.8.1.pom>spring=
+hppc-0.8.1.jar>spring=
+hppc-0.8.1-sources.jar>spring=

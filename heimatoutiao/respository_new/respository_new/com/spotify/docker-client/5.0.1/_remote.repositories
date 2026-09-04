@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 29 14:53:47 CST 2021
+docker-client-5.0.1-shaded.jar>aliyunmaven=
+docker-client-5.0.1.pom>aliyunmaven=
+docker-client-5.0.1.pom>central=

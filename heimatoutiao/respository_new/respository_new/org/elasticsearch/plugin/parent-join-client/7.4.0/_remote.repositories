@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:29 CST 2026
+parent-join-client-7.4.0.pom>spring=
+parent-join-client-7.4.0.jar>aliyunmaven=
+parent-join-client-7.4.0.jar>spring=
+parent-join-client-7.4.0-sources.jar>spring=
+parent-join-client-7.4.0.pom>aliyunmaven=

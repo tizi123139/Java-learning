@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:20:09 CST 2026
+mysql-connector-java-5.1.46.jar>aliyunmaven=
+mysql-connector-java-5.1.46.pom>aliyunmaven=
+mysql-connector-java-5.1.46-sources.jar>spring=
+mysql-connector-java-5.1.46.pom>spring=
+mysql-connector-java-5.1.46.jar>spring=

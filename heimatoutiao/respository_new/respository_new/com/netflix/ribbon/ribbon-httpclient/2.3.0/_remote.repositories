@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:19:47 CST 2026
+ribbon-httpclient-2.3.0.jar>spring=
+ribbon-httpclient-2.3.0.jar>central=
+ribbon-httpclient-2.3.0.jar>aliyunmaven=
+ribbon-httpclient-2.3.0.pom>central=
+ribbon-httpclient-2.3.0.pom>aliyunmaven=
+ribbon-httpclient-2.3.0-sources.jar>spring=
+ribbon-httpclient-2.3.0.pom>spring=

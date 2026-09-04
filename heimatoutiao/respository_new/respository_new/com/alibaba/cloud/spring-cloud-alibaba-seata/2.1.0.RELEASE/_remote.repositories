@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 31 10:19:35 CST 2021
+spring-cloud-alibaba-seata-2.1.0.RELEASE.pom>spring=
+spring-cloud-alibaba-seata-2.1.0.RELEASE.pom>aliyunmaven=
+spring-cloud-alibaba-seata-2.1.0.RELEASE.jar>aliyunmaven=
+spring-cloud-alibaba-seata-2.1.0.RELEASE.jar>spring=

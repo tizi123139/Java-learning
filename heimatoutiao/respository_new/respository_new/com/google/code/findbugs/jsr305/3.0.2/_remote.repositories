@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:19:33 CST 2026
+jsr305-3.0.2.jar>spring=
+jsr305-3.0.2.pom>aliyunmaven=
+jsr305-3.0.2.jar>central=
+jsr305-3.0.2.pom>central=
+jsr305-3.0.2.jar>aliyunmaven=
+jsr305-3.0.2-sources.jar>spring=
+jsr305-3.0.2.pom>spring=

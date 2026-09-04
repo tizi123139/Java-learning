@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:55 CST 2026
+jaxb-api-2.3.1.jar>spring=
+jaxb-api-2.3.1.jar>aliyunmaven=
+jaxb-api-2.3.1-sources.jar>spring=
+jaxb-api-2.3.1.pom>aliyunmaven=
+jaxb-api-2.3.1.jar>central=
+jaxb-api-2.3.1.pom>central=
+jaxb-api-2.3.1.pom>spring=

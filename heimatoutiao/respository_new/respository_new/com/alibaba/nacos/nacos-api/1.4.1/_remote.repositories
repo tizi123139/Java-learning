@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 16:33:13 CST 2026
+nacos-api-1.4.1.pom>central=
+nacos-api-1.4.1.jar>spring=
+nacos-api-1.4.1.jar>aliyunmaven=
+nacos-api-1.4.1-sources.jar>central=
+nacos-api-1.4.1-sources.jar>alimaven=
+nacos-api-1.4.1.pom>spring=
+nacos-api-1.4.1.pom>aliyunmaven=
+nacos-api-1.4.1.jar>central=

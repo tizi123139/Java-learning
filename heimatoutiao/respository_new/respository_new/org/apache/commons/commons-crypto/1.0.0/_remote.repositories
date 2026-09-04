@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:21:20 CST 2026
+commons-crypto-1.0.0.jar>aliyunmaven=
+commons-crypto-1.0.0-sources.jar>spring=
+commons-crypto-1.0.0.pom>spring=
+commons-crypto-1.0.0.pom>aliyunmaven=
+commons-crypto-1.0.0.jar>spring=

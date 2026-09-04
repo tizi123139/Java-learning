@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 16:32:56 CST 2026
+junit-vintage-engine-5.6.3.pom>spring=
+junit-vintage-engine-5.6.3.jar>aliyunmaven=
+junit-vintage-engine-5.6.3.jar>spring=
+junit-vintage-engine-5.6.3.pom>aliyunmaven=
+junit-vintage-engine-5.6.3.jar>central=
+junit-vintage-engine-5.6.3.pom>central=
+junit-vintage-engine-5.6.3-sources.jar>alimaven=
+junit-vintage-engine-5.6.3-sources.jar>central=

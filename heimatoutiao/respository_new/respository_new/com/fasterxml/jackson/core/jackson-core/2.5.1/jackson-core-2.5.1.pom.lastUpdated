@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 30 09:17:59 CST 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1630286257241
+@default-jcenter-http\://jcenter.bintray.com/.lastUpdated=1630286278265
+https\://maven.java.net/content/groups/public/.error=
+http\://jcenter.bintray.com/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.5.1 from/to jcenter (http\://jcenter.bintray.com)\: Transfer failed for http\://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.1/jackson-core-2.5.1.pom
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.5.1 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.1/jackson-core-2.5.1.pom
+https\://maven.java.net/content/groups/public/.lastUpdated=1630286279959

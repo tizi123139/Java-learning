@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:25 CST 2026
+elasticsearch-x-content-7.4.0.jar>aliyunmaven=
+elasticsearch-x-content-7.4.0.pom>spring=
+elasticsearch-x-content-7.4.0.jar>spring=
+elasticsearch-x-content-7.4.0.pom>aliyunmaven=
+elasticsearch-x-content-7.4.0-sources.jar>spring=

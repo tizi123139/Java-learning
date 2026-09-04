@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:26 CST 2026
+curator-client-2.7.1.jar>spring=
+curator-client-2.7.1-sources.jar>spring=
+curator-client-2.7.1.pom>aliyunmaven=
+curator-client-2.7.1.pom>spring=
+curator-client-2.7.1.jar>aliyunmaven=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:22 CST 2026
+commons-configuration-1.6.pom>spring=
+commons-configuration-1.6.jar>spring=
+commons-configuration-1.6.jar>aliyunmaven=
+commons-configuration-1.6.pom>aliyunmaven=
+commons-configuration-1.6-sources.jar>spring=

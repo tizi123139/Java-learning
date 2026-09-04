@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 29 14:53:55 CST 2021
+osgi-resource-locator-1.0.1.pom>central=
+osgi-resource-locator-1.0.1.jar>aliyunmaven=
+osgi-resource-locator-1.0.1.pom>aliyunmaven=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 13:32:14 CST 2026
+commons-fileupload-1.4.jar>central=
+commons-fileupload-1.4.pom>central=
+commons-fileupload-1.4.pom>spring=
+commons-fileupload-1.4.pom>aliyunmaven=
+commons-fileupload-1.4.jar>spring=
+commons-fileupload-1.4-sources.jar>spring=
+commons-fileupload-1.4.jar>aliyunmaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 29 14:53:52 CST 2021
+javax.ws.rs-api-2.0.1.jar>aliyunmaven=
+javax.ws.rs-api-2.0.1.pom>aliyunmaven=
+javax.ws.rs-api-2.0.1.pom>central=

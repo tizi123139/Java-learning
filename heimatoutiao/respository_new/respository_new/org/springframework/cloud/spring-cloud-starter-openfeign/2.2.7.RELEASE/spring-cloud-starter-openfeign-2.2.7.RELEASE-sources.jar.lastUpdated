@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 13:32:20 CST 2026
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://maven.aliyun.com/repository/spring/.lastUpdated=1786944740517
+https\://maven.aliyun.com/repository/spring/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1786944740772

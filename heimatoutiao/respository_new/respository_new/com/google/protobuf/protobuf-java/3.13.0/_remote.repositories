@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 16:32:50 CST 2026
+protobuf-java-3.13.0.jar>central=
+protobuf-java-3.13.0.jar>aliyunmaven=
+protobuf-java-3.13.0.jar>alimaven=
+protobuf-java-3.13.0.pom>alimaven=
+protobuf-java-3.13.0.pom>central=
+protobuf-java-3.13.0-sources.jar>alimaven=
+protobuf-java-3.13.0.pom>aliyunmaven=
+protobuf-java-3.13.0-sources.jar>central=

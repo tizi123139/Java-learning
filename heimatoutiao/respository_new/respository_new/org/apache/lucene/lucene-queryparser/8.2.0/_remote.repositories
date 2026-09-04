@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:16 CST 2026
+lucene-queryparser-8.2.0.jar>aliyunmaven=
+lucene-queryparser-8.2.0.pom>aliyunmaven=
+lucene-queryparser-8.2.0.pom>spring=
+lucene-queryparser-8.2.0-sources.jar>spring=
+lucene-queryparser-8.2.0.jar>spring=

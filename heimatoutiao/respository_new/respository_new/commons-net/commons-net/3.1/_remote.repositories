@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:21:31 CST 2026
+commons-net-3.1-sources.jar>spring=
+commons-net-3.1.jar>aliyunmaven=
+commons-net-3.1.pom>spring=
+commons-net-3.1.pom>aliyunmaven=
+commons-net-3.1.jar>spring=

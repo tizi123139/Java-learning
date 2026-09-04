@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 19:37:24 CST 2026
+log4j-1.2.12.jar>central=
+log4j-1.2.12.pom>central=
+log4j-1.2.12.jar>aliyunmaven=
+log4j-1.2.12.pom>alimaven=
+log4j-1.2.12.pom>aliyunmaven=

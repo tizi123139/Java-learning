@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:55 CST 2026
+jaxb-core-2.1.14.jar>aliyunmaven=
+jaxb-core-2.1.14.pom>aliyunmaven=
+jaxb-core-2.1.14.pom>spring=
+jaxb-core-2.1.14.jar>spring=
+jaxb-core-2.1.14-sources.jar>spring=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:21:26 CST 2026
+bcprov-jdk15on-1.64-sources.jar>spring=
+bcprov-jdk15on-1.64.jar>aliyunmaven=
+bcprov-jdk15on-1.64.pom>spring=
+bcprov-jdk15on-1.64.jar>central=
+bcprov-jdk15on-1.64.jar>spring=
+bcprov-jdk15on-1.64.pom>central=
+bcprov-jdk15on-1.64.pom>aliyunmaven=

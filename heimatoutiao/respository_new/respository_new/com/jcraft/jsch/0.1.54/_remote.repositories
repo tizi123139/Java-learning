@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:18:13 CST 2026
+jsch-0.1.54.jar>spring=
+jsch-0.1.54-sources.jar>spring=
+jsch-0.1.54.jar>aliyunmaven=
+jsch-0.1.54.pom>spring=
+jsch-0.1.54.pom>aliyunmaven=

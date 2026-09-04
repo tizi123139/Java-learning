@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:20:52 CST 2026
+asm-5.0.4.jar>central=
+asm-5.0.4.pom>aliyunmaven=
+asm-5.0.4.pom>spring=
+asm-5.0.4.pom>central=
+asm-5.0.4.jar>spring=
+asm-5.0.4.jar>aliyunmaven=
+asm-5.0.4-sources.jar>spring=

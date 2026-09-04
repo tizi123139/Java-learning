@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:31:18 CST 2026
+hbase-shaded-protobuf-2.1.0.jar>spring=
+hbase-shaded-protobuf-2.1.0.jar>aliyunmaven=
+hbase-shaded-protobuf-2.1.0-sources.jar>spring=
+hbase-shaded-protobuf-2.1.0.pom>spring=
+hbase-shaded-protobuf-2.1.0.pom>aliyunmaven=

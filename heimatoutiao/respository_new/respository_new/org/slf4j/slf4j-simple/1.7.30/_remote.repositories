@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 25 15:52:32 CST 2021
+slf4j-simple-1.7.30.jar>spring=
+slf4j-simple-1.7.30.pom>spring=

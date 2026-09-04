@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 29 14:53:47 CST 2021
+docker-maven-plugin-0.4.13.jar>aliyunmaven=
+docker-maven-plugin-0.4.13.jar>central=
+docker-maven-plugin-0.4.13.pom>central=
+docker-maven-plugin-0.4.13.pom>aliyunmaven=

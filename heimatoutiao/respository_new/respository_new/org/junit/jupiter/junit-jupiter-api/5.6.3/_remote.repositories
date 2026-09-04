@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 16:32:54 CST 2026
+junit-jupiter-api-5.6.3.jar>alimaven=
+junit-jupiter-api-5.6.3.pom>alimaven=
+junit-jupiter-api-5.6.3.jar>central=
+junit-jupiter-api-5.6.3.pom>central=
+junit-jupiter-api-5.6.3-sources.jar>central=
+junit-jupiter-api-5.6.3.jar>aliyunmaven=
+junit-jupiter-api-5.6.3-sources.jar>alimaven=
+junit-jupiter-api-5.6.3.pom>aliyunmaven=

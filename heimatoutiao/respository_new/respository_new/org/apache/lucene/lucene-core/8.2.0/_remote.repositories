@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:26 CST 2026
+lucene-core-8.2.0.jar>aliyunmaven=
+lucene-core-8.2.0.pom>spring=
+lucene-core-8.2.0.jar>spring=
+lucene-core-8.2.0.pom>aliyunmaven=
+lucene-core-8.2.0-sources.jar>spring=

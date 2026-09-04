@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:19:06 CST 2026
+jackson-dataformat-cbor-2.9.9.pom>aliyunmaven=
+jackson-dataformat-cbor-2.9.9.pom>spring=
+jackson-dataformat-cbor-2.9.9-sources.jar>spring=
+jackson-dataformat-cbor-2.9.9.jar>spring=
+jackson-dataformat-cbor-2.9.9.jar>aliyunmaven=

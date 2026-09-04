@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:20:09 CST 2026
+bcpkix-jdk15on-1.64-sources.jar>spring=
+bcpkix-jdk15on-1.64.jar>spring=
+bcpkix-jdk15on-1.64.jar>aliyunmaven=
+bcpkix-jdk15on-1.64.pom>aliyunmaven=
+bcpkix-jdk15on-1.64.jar>central=
+bcpkix-jdk15on-1.64.pom>spring=
+bcpkix-jdk15on-1.64.pom>central=

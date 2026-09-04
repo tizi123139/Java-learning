@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 19:36:53 CST 2026
+parent-3.14.9.pom>central=
+parent-3.14.9.pom>alimaven=
+parent-3.14.9.pom>aliyunmaven=

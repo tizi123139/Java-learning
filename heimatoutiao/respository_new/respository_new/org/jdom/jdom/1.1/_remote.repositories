@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:19:55 CST 2026
+jdom-1.1.pom>spring=
+jdom-1.1.jar>spring=
+jdom-1.1.jar>aliyunmaven=
+jdom-1.1-sources.jar>spring=
+jdom-1.1.pom>aliyunmaven=

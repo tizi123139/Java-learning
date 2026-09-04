@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 13:20:00 CST 2026
+activation-1.1.1-sources.jar>spring=
+activation-1.1.1.pom>aliyunmaven=
+activation-1.1.1.pom>spring=
+activation-1.1.1.jar>spring=
+activation-1.1.1.jar>aliyunmaven=

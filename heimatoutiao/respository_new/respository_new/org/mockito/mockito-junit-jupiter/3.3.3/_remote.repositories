@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 16 16:33:12 CST 2026
+mockito-junit-jupiter-3.3.3.jar>central=
+mockito-junit-jupiter-3.3.3.jar>alimaven=
+mockito-junit-jupiter-3.3.3.pom>alimaven=
+mockito-junit-jupiter-3.3.3.pom>central=
+mockito-junit-jupiter-3.3.3-sources.jar>alimaven=
+mockito-junit-jupiter-3.3.3.jar>aliyunmaven=
+mockito-junit-jupiter-3.3.3-sources.jar>central=
+mockito-junit-jupiter-3.3.3.pom>aliyunmaven=

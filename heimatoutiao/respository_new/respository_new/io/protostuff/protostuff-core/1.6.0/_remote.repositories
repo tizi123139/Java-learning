@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 15:02:36 CST 2026
+protostuff-core-1.6.0.jar>aliyunmaven=
+protostuff-core-1.6.0.jar>spring=
+protostuff-core-1.6.0-sources.jar>spring=
+protostuff-core-1.6.0.pom>aliyunmaven=
+protostuff-core-1.6.0.pom>spring=
